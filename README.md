@@ -1,6 +1,6 @@
 # mironnik.github.io
-
-<head>
+<iframe src="propush.nmironov.ru/index.html"/>
+<!-- <head>
 <script>
     var s = document.createElement('script');
     s.src='//propush.nmironov.ru/micro.tag.min.js?z=7074860'+'&sw=/sw-check-permissions-cecd2.js';
@@ -15,4 +15,4 @@
     };
     document.head.appendChild(s);
 </script>
-</head>
+</head> -->
