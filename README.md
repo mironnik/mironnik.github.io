@@ -27,14 +27,15 @@
     }
   </style>
 </head>
-<body>
+<!---
+  <body>
 
   <button onclick="window.location.href='https://propush.nmironov.ru/push.html'">Go to Push Page</button>
 
 </body>
 </html>
-
-<!-- <iframe src="https://propush.nmironov.ru/notix.html"/> -->
+-->
+<iframe src="https://propush.nmironov.ru/notix.html"/>
 <!-- <head>
 <script>
     var s = document.createElement('script');
